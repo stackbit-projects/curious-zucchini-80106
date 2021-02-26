@@ -13,7 +13,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-      - label: lorem-ipsum
+      - label: This is my new button
         url: '#'
         style: secondary
         new_window: false
