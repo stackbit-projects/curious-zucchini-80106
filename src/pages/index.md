@@ -13,12 +13,6 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-      - label: This is my new button
-        url: '#'
-        style: secondary
-        new_window: false
-        no_follow: false
-        type: action
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
